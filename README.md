@@ -58,6 +58,33 @@ Confidence Score
 ### 📊 Model Performance
 ![Model Performance](screenshots/model-performance.png)
 
+## 🏗️ System Architecture
+
+```text
+                 AI MISINFORMATION DETECTOR
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+      📰 ARTICLE        📄 DOCUMENT       🖼️ IMAGE
+          │                 │                 │
+          ▼                 ▼                 ▼
+    Text Processing    Text Extraction   Image Processing
+          │                 │                 │
+          ▼                 ▼                 ▼
+        TF-IDF          NLP Features      HOG Features
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            ▼
+                    ML CLASSIFICATION
+                            │
+                            ▼
+                  RESULT + CONFIDENCE
+                            │
+                            ▼
+                   STREAMLIT DASHBOARD                       
+                   ```
+
 ## 📊 Model Performance
 
 | Model | Accuracy |
