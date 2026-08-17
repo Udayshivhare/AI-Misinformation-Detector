@@ -1,4 +1,5 @@
 # AI Misinformation Detector
+🌐 **Live Demo:** https://ai-misinformation-detector-6ynkokntqesqz7r8af5awx.streamlit.app
 
 A multimodal machine-learning application that analyzes news articles, documents, and images to identify potentially misleading or AI-generated content.
 
