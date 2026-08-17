@@ -82,9 +82,10 @@ Confidence Score
                   RESULT + CONFIDENCE
                             │
                             ▼
-                   STREAMLIT DASHBOARD                       
-                   ```
+                   STREAMLIT DASHBOARD   
 
+```               
+ 
 ## 📊 Model Performance
 
 | Model | Accuracy |
