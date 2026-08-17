@@ -39,3 +39,17 @@ Machine Learning Model
 Prediction
   ↓
 Confidence Score
+
+## 📸 Application Screenshots
+
+### 📰 News Article Analysis
+![News Article Analysis](screenshots/article-analysis.png)
+
+### 📄 Document Analysis
+![Document Analysis](screenshots/document-analysis.png)
+
+### 🖼️ AI-Generated Image Detection
+![AI-Generated Image Detection](screenshots/image-analysis.png)
+
+### 📊 Model Performance
+![Model Performance](screenshots/model-performance.png)
