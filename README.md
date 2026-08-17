@@ -40,6 +40,9 @@ Prediction
   ↓
 Confidence Score
 
+```
+
+
 ## 📸 Application Screenshots
 
 ### 📰 News Article Analysis
