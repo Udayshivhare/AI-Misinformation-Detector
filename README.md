@@ -85,7 +85,7 @@ Confidence Score
                    STREAMLIT DASHBOARD   
 
 ```               
- 
+
 ## 📊 Model Performance
 
 | Model | Accuracy |
@@ -102,6 +102,7 @@ Confidence Score
 ```bash
 git clone https://github.com/Udayshivhare/AI-Misinformation-Detector.git
 cd AI-Misinformation-Detector
+```
 
 ## 🔮 Future Improvements
 
